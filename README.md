@@ -15,17 +15,6 @@ Click Below Picture To Open Siyu Chat Bot Owner Id...
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
- At 1st Import This Repo Then Input All Value In Speedy.py || Then Proceed Kaali Linux Value Or Ect.
-
-## 🥀 Kaali Linux Tutorial
-
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
-
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
-
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
-
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
 [𝐉𝐀𝐘𝐘](https://t.me/ll_About_Jayy_ll)
 
