@@ -43,7 +43,7 @@ Click Below Picture To Open Siyu Chat Bot Owner Id...
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![JAYY](https://telegra.ph/file/526d282310e0eb6cac6ba.jpg)](https://t.me/ll_About_Jayy_ll)
+[![JAYY](https://telegra.ph/file/d788725b81eea4b92c8b2.jpg)](https://t.me/ll_About_Jayy_ll)
 
 
 #### Main Developer = [JAYY](https://t.me/ll_About_Jayy_ll)
