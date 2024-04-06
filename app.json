@@ -1,7 +1,7 @@
 {
     "name": "BikashRobot", 
-    "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg",
+    "description": "Hello, I am Siyu An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
+    "logo": "https://telegra.ph/file/526d282310e0eb6cac6ba.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
