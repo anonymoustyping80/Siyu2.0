@@ -1,22 +1,22 @@
 ## About This Repository 
 Best Smart Artificial intelligence Chat bot For Telegram Groups 
-Click Below Picture To Open VChat Bot Owner Id...
+Click Below Picture To Open Siyu Chat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="https://t.me/ll_About_Jayy_ll"><img src="https://telegra.ph/file/526d282310e0eb6cac6ba.jpg"></a></p>
 
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashhalderNew/BikashChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/anonymoustyping80/Miss_Siyu)
 
 
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
- At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
+ At 1st Import This Repo Then Input All Value In Speedy.py || Then Proceed Kaali Linux Value Or Ect.
 
 ## 🥀 Kaali Linux Tutorial
 
@@ -27,30 +27,30 @@ Click Below Picture To Open VChat Bot Owner Id...
 [Kaali Linux](https://youtu.be/fFRxAG1mCVU)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[𝐉𝐀𝐘𝐘](https://t.me/ll_About_Jayy_ll)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Speedy_pvt2)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/SPEEDY_PVT)
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://youtube.com/@Lofi_World_4.0?si=oEwr2rOyOv5VYt8C)
 
 
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![JAYY](https://telegra.ph/file/526d282310e0eb6cac6ba.jpg)](https://t.me/ll_About_Jayy_ll)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [JAYY](https://t.me/ll_About_Jayy_ll)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ Prime Ajay Thanks For Fixed All Error Or Lovely Support 💕
 
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [JAYY](https://t.me/ll_About_Jayy_ll) & [PRIME AJAY](https://t.me/PRIME_BOTMAKER)
